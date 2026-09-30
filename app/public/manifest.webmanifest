@@ -1,0 +1,13 @@
+{
+  "name": "Nexo PKM",
+  "short_name": "Nexo",
+  "description": "Gestión del conocimiento personal en Markdown, compatible con Obsidian",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e1e24",
+  "theme_color": "#1e1e24",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
